@@ -34,8 +34,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/your-username/bus-schedule.git
-   cd bus-schedule
+   git clone https://github.com/OlegYap/BusSchedule
    ```
 
 2. Скопируйте файл окружения:
